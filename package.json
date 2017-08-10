@@ -1,5 +1,5 @@
 {
-  "name": "@containership/containership.marketplace.cassandra",
+  "name": "@containership/marketplace.cassandra",
   "private": true,
   "description": "Docker image designed to run a Cassandra cluster on ContainerShip",
   "main": "cassandra.js",
